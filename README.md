@@ -3,6 +3,7 @@
 <img width="1584" height="396" alt="Black and Blue Futuristic Data Analyst LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/02f4c9af-238a-42cd-b3d1-0fc07e0cca75" />
 
 About me:
+
 Financial specialist specializing in data science with intensive training in statistical analysis, machine learning, and Python programming.
 
 <!--
