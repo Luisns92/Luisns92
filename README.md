@@ -1,4 +1,6 @@
-### Hi! Im Luis Núñez 👋
+## Hi! Im Luis Núñez 👋
+
+<img width="1584" height="396" alt="Black and Blue Futuristic Data Analyst LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/02f4c9af-238a-42cd-b3d1-0fc07e0cca75" />
 
 <!--
 **Luisns92/Luisns92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
