@@ -32,8 +32,7 @@ I am a financial specialist, specializing in data science with intensive trainin
 
 ### Other skills 🏅
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-
-![Sketch Up](https://badgen.net/badge/icon/AutoCad/red?icon=java&label)
+![AutoCad](https://badgen.net/badge/icon/AutoCad/red?icon=java&label)
 
 
 
