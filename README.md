@@ -2,6 +2,7 @@
 
 <img width="1584" height="396" alt="Black and Blue Futuristic Data Analyst LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/02f4c9af-238a-42cd-b3d1-0fc07e0cca75" />
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465
 <!--
 **Luisns92/Luisns92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
