@@ -8,7 +8,7 @@
 
 ## 🧔🏻 About me:
 
-I am a financial specialist, specializing in data science with intensive training in statistical analysis, machine learning, and Python programming.
+I am a financial specialist, specializing in data analyst and scientist with intensive training in statistical analysis, machine learning, and Python programming.
 
 - 🏦 I enjoy numbers an his secrets.
 - 🌱 I’m currently learning data science, python and 🖥️ machine learning.
