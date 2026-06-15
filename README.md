@@ -1,8 +1,9 @@
 
 
-<img width="1584" height="396" alt="Black and Blue Futuristic Data Analyst LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/02f4c9af-238a-42cd-b3d1-0fc07e0cca75" />
+<img width="1188" height="297" alt="Black and White Simple Front End LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/55d87205-3cdc-4a7f-b688-677fbf0702d1" />
 
 #                                                         Hi! I´m Luis Núñez 👋
+
 
 
 
