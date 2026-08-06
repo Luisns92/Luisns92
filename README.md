@@ -14,7 +14,7 @@ I am a financial specialist, specializing in data analyst and scientist with int
 - 🏦 I enjoy numbers an his secrets.
 - 🌱 I’m currently learning data science, python and 🖥️ machine learning.
 - 💙 I love making processes more efficient.
-- 🕹️ I´m a gamer. 	![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) 
+- 🕹️ I´m gamer. 	![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) 
 - 📫 If you want know about me a little bit more... ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Skills  🏆
